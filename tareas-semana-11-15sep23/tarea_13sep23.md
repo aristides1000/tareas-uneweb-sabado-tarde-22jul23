@@ -22,7 +22,7 @@
 18. Realiza todas las actividades de [Assignment](https://www.theodinproject.com/lessons/foundations-javascript-developer-tools#assignment) y diga en clases que conclusiones puede tener del artículo.
 19. Responda las preguntas de [Knowledge check](https://www.theodinproject.com/lessons/foundations-javascript-developer-tools#knowledge-check) y diga en clases que conclusiones puede tener del artículo.
 20. Vea los videos de [14 Must Know Chrome Dev Tools Tricks - #JavaScript30 9/30](https://www.youtube.com/watch?v=xkzDaKwinA8&ab_channel=WesBos) y diga en clases que conclusiones puede tener del artículo.
-22. Realiza todas las actividades de [Additional resources](https://www.theodinproject.com/lessons/foundations-javascript-developer-tools#additional-resources) y diga en clases que conclusiones puede tener del artículo.
+21. Realiza todas las actividades de [Additional resources](https://www.theodinproject.com/lessons/foundations-javascript-developer-tools#additional-resources) y diga en clases que conclusiones puede tener del artículo.
 
 ## Práctica
 
